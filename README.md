@@ -2,7 +2,7 @@
 Ulises Ramirez uramirez@my.waketech.edu
 This GitHub account is going to be used for assignments for wake tech course
 The repository I created is cloned on my local drive
-After creating the account, I had to download the GitHub Desktop app from the website. Then, I selected the repository that I chose to be cloned. Now the README.md file is in my local folder
+After creating the account, I had to download the GitHub Desktop app from the website. Then, I selected the repository that I chose to be cloned. Now the README.md file is in my local folder.
 #About ME
 ##Interest
   * I like to learn different languages, * engaging in politics, * playing WarThunder,
