@@ -9,5 +9,5 @@ After creating the account, I had to download the GitHub Desktop app from the we
   * Engaging in politics,
   * Playing WarThunder,  
 ## Websites I recommend  
-  - [Rumble](www.rumble.com)
-  - [Youtube](www.youtube.com)
+  - [Rumble](https://www.rumble.com)
+  - [Youtube](https://www.youtube.com)
